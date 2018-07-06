@@ -1,0 +1,38 @@
+# Teamplate nodejs: hapijs-api-template
+## Discription
+##. hapijs
+##. mysql
+##. swagger
+##. eslint
+## Installation
+####1. Clone this project or Download that ZIP file
+
+```sh
+$ git clone https://github.com/nexlesoft/Hapi-api-template.git
+```
+
+####2.  Make sure you have [npm](https://www.npmjs.org/) installed globally
+
+More details here
+https://nodejs.org/en/download/ 
+
+####// note:
+ - Create .env base on .env-template
+
+####3. On the command prompt run the following commands
+
+```sh
+$ cd `project-directory`
+```
+```sh
+$ npm install 
+```
+```sh
+$ npm start
+```
+
+## Try http://localhost:5001/documentation
+
+#progess
+
+server -> routes -> route[folder] -> manager[folder] -> resourceAccess[folder] -> models[folder] -> config[folder]
